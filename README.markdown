@@ -1,10 +1,11 @@
+## INSTALL
+   gem install namespaces
+
 ## EXAMPLE
 
     require 'rubygems'
-    require 'test/unit'
     require 'shoulda'
-
-    require File.expand_path('../../lib/namespaces.rb', __FILE__)
+    require 'namespaces'
 
     module A
       module B
@@ -28,5 +29,8 @@
     end
 
 
-## USE CASES WHEN ONE MIGHT NEED IT
+## WHY ON EARTH SOMEBODY MIGHT NEED IT?
+   I have described it [here](http://afurmanov.com/2010/09/03/finding-lexical-nesting-for-self-in-ruby)
 
+## License
+   MIT.

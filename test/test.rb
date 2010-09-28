@@ -1,8 +1,6 @@
 require 'rubygems'
-require 'test/unit'
 require 'shoulda'
-
-require File.expand_path('../../lib/namespaces.rb', __FILE__)
+require 'namespaces'
 
 module A
   module B
