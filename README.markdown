@@ -30,7 +30,7 @@
 
 
 ## WHY ON EARTH SOMEBODY MIGHT NEED IT?
-   I have described it [here](http://afurmanov.com/2010/09/03/finding-lexical-nesting-for-self-in-ruby)
+   I have described it [here](https://afurmanov.com/finding-lexical-nesting-for-self-in-ruby)
 
 ## License
    MIT.
